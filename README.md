@@ -1,4 +1,4 @@
-<img src="https://tomorrowbot.sourcream.repl.co/images/global.png" align="left" height="160px"><h1>TomorrowBot</h1>
+<img src="https://jurassic.host/images/trex.png" align="left" height="160px"><h1>JurassicHost</h1>
   
 ![Version][version]
 <br>
@@ -7,9 +7,4 @@
 The main website for the hosting company JurassicHost!
 
 
-
-
-
-ility
-
-[version]: https://img.shields.io/github/manifest-json/v/SourCreamCulture/TomorrowBot?color=5F4DEF&style=flat-square
+[version]: https://img.shields.io/github/manifest-json/v/JurassicHost/Jurassic.Host?color=5F4DEF&style=flat-square
