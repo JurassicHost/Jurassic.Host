@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <a href="https://discord.gg/wCbKBZF9cV">
+  <a href="https://discord.gg/5F6dK67vwD">
     <img src="https://img.shields.io/discord/810571477316403233?style=for-the-badge" alt="discord - users online" />
   </a>
 </p>
