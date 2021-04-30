@@ -4,6 +4,13 @@
 <br>
 
 ---
+
+<p align="center">
+  <a href="https://discord.gg/wCbKBZF9cV">
+    <img src="https://img.shields.io/discord/810571477316403233?style=for-the-badge" alt="discord - users online" />
+  </a>
+</p>
+
 The main website for the hosting company JurassicHost!
 
 
